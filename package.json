@@ -1,0 +1,20 @@
+{
+  "name": "online-gis",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "less": "^4.2.0",
+    "pinia": "^2.1.4",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "leaflet": "^1.9.4",
+    "vite": "^4.4.6"
+  }
+}
